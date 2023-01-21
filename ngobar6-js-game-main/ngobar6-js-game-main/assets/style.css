@@ -1,0 +1,22 @@
+body {
+    background: yellow;
+}
+
+.container {
+    padding: 4px;
+    max-width: max-content;
+    text-align: center;
+}
+
+img {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    padding: 3px;
+}
+
+img:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+img:active {
+
+}
